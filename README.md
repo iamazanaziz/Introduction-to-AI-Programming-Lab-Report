@@ -13,8 +13,9 @@ Overall, this subject significantly enhances my **problem-solving mindset**, imp
 
 📚 Recommended Learning Resources:
 • Real Python [https://realpython.com](https://realpython.com)
-• Automate the Boring Stuff with Python [https://automatetheboringstuff.com](https://automatetheboringstuff.com)
-• Python Official Documentation [https://docs.python.org/3](https://docs.python.org/3)
-• Python for AI (O’Reilly Publications)
 
-If you want, I can also **adapt this for LinkedIn, a course outline, or an academic portfolio description**.
+• Automate the Boring Stuff with Python [https://automatetheboringstuff.com](https://automatetheboringstuff.com)
+
+• Python Official Documentation [https://docs.python.org/3](https://docs.python.org/3)
+
+• Python for AI (O’Reilly Publications
